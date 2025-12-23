@@ -209,8 +209,6 @@ O PRD no Copilot com a inserção das informaçõe no Lovable para o tratamento 
 Esperava mais crédito no Lovable para produção melhor do site, porém o preview já realizado foi suficiente como base de projeto e ajustes para o futuro.
 ## O que aprendeu sobre conversar com IAs?
 Aprendi que quanto mais informações claras e concisas dermos as IAs, ou seja, através dos prompts, maior será a qualidade daquilo que gostaríamos de receber.
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Conclusão
 
